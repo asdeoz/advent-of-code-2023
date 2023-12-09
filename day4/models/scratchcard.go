@@ -6,7 +6,7 @@ type ScratchCard struct {
 	Nums []int `json:"nums"`
 }
 
-func (c *ScratchCard) IsWinningNumber(n int) bool {
+func (c *ScratchCard) isWinningNumber(n int) bool {
 	for _, w := range c.Win {
 		if n == w {
 			return true
@@ -14,4 +14,14 @@ func (c *ScratchCard) IsWinningNumber(n int) bool {
 	}
 
 	return false
+}
+
+func (c *ScratchCard) SumWinningNumbers() int {
+	winningNumbers := 0
+	for _, n := range c.Nums {
+		if c.isWinningNumber(n) {
+			winningNumbers++
+		}
+	}
+	return winningNumbers
 }
