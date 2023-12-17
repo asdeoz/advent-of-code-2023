@@ -1,0 +1,856 @@
+{
+  "seed_to_soil": [
+    {
+      "destStart": 3809825462,
+      "sourceStart": 2725979505,
+      "rangeLen": 339457863
+    },
+    {
+      "destStart": 3359244708,
+      "sourceStart": 2085610478,
+      "rangeLen": 450580754
+    },
+    {
+      "destStart": 652041572,
+      "sourceStart": 2536191232,
+      "rangeLen": 189788273
+    },
+    {
+      "destStart": 841829845,
+      "sourceStart": 3346349446,
+      "rangeLen": 343599367
+    },
+    {
+      "destStart": 1408035723,
+      "sourceStart": 73701258,
+      "rangeLen": 732851393
+    },
+    {
+      "destStart": 2140887116,
+      "sourceStart": 3689948813,
+      "rangeLen": 88205018
+    },
+    {
+      "destStart": 0,
+      "sourceStart": 3778153831,
+      "rangeLen": 371129494
+    },
+    {
+      "destStart": 2953980724,
+      "sourceStart": 0,
+      "rangeLen": 73701258
+    },
+    {
+      "destStart": 3027681982,
+      "sourceStart": 1754047752,
+      "rangeLen": 331562726
+    },
+    {
+      "destStart": 2229092134,
+      "sourceStart": 1029159162,
+      "rangeLen": 724888590
+    },
+    {
+      "destStart": 1185429212,
+      "sourceStart": 806552651,
+      "rangeLen": 222606511
+    },
+    {
+      "destStart": 371129494,
+      "sourceStart": 3065437368,
+      "rangeLen": 280912078
+    }
+  ],
+  "soil_to_fertilizer": [
+    {
+      "destStart": 201390752,
+      "sourceStart": 0,
+      "rangeLen": 263005475
+    },
+    {
+      "destStart": 772560454,
+      "sourceStart": 263005475,
+      "rangeLen": 186665885
+    },
+    {
+      "destStart": 3597849741,
+      "sourceStart": 3228095269,
+      "rangeLen": 216867970
+    },
+    {
+      "destStart": 959226339,
+      "sourceStart": 951560560,
+      "rangeLen": 85171934
+    },
+    {
+      "destStart": 2882237029,
+      "sourceStart": 3813801625,
+      "rangeLen": 34286208
+    },
+    {
+      "destStart": 0,
+      "sourceStart": 586356609,
+      "rangeLen": 16090261
+    },
+    {
+      "destStart": 1460387186,
+      "sourceStart": 1189054013,
+      "rangeLen": 136970257
+    },
+    {
+      "destStart": 2511361703,
+      "sourceStart": 2581174071,
+      "rangeLen": 147006778
+    },
+    {
+      "destStart": 201110502,
+      "sourceStart": 1477157137,
+      "rangeLen": 280250
+    },
+    {
+      "destStart": 3582774663,
+      "sourceStart": 3444963239,
+      "rangeLen": 15075078
+    },
+    {
+      "destStart": 2073881675,
+      "sourceStart": 2245158204,
+      "rangeLen": 30510333
+    },
+    {
+      "destStart": 3127914126,
+      "sourceStart": 3163440286,
+      "rangeLen": 64654983
+    },
+    {
+      "destStart": 1724767985,
+      "sourceStart": 602446870,
+      "rangeLen": 349113690
+    },
+    {
+      "destStart": 1597357443,
+      "sourceStart": 1036732494,
+      "rangeLen": 127410542
+    },
+    {
+      "destStart": 1044398273,
+      "sourceStart": 1164143036,
+      "rangeLen": 24910977
+    },
+    {
+      "destStart": 635875205,
+      "sourceStart": 449671360,
+      "rangeLen": 136685249
+    },
+    {
+      "destStart": 2916523237,
+      "sourceStart": 2728180849,
+      "rangeLen": 211390889
+    },
+    {
+      "destStart": 1069309250,
+      "sourceStart": 1854080268,
+      "rangeLen": 391077936
+    },
+    {
+      "destStart": 167223128,
+      "sourceStart": 1820192894,
+      "rangeLen": 33887374
+    },
+    {
+      "destStart": 4168481019,
+      "sourceStart": 2454687794,
+      "rangeLen": 126486277
+    },
+    {
+      "destStart": 3496254979,
+      "sourceStart": 4048626015,
+      "rangeLen": 86519684
+    },
+    {
+      "destStart": 2454687794,
+      "sourceStart": 4238293387,
+      "rangeLen": 56673909
+    },
+    {
+      "destStart": 2104392008,
+      "sourceStart": 1648916365,
+      "rangeLen": 171276529
+    },
+    {
+      "destStart": 3814717711,
+      "sourceStart": 3460038317,
+      "rangeLen": 353763308
+    },
+    {
+      "destStart": 464396227,
+      "sourceStart": 1477437387,
+      "rangeLen": 171478978
+    },
+    {
+      "destStart": 2658368481,
+      "sourceStart": 2939571738,
+      "rangeLen": 223868548
+    },
+    {
+      "destStart": 16090261,
+      "sourceStart": 1326024270,
+      "rangeLen": 151132867
+    },
+    {
+      "destStart": 3393107291,
+      "sourceStart": 4135145699,
+      "rangeLen": 103147688
+    },
+    {
+      "destStart": 3192569109,
+      "sourceStart": 3848087833,
+      "rangeLen": 200538182
+    }
+  ],
+  "fertilizer_to_water": [
+    {
+      "destStart": 357701033,
+      "sourceStart": 441924316,
+      "rangeLen": 54941059
+    },
+    {
+      "destStart": 2047098412,
+      "sourceStart": 1574732688,
+      "rangeLen": 106451110
+    },
+    {
+      "destStart": 2414997091,
+      "sourceStart": 2961420861,
+      "rangeLen": 217583761
+    },
+    {
+      "destStart": 3647103220,
+      "sourceStart": 3202843177,
+      "rangeLen": 147888878
+    },
+    {
+      "destStart": 1781607871,
+      "sourceStart": 3397471081,
+      "rangeLen": 265490541
+    },
+    {
+      "destStart": 433955285,
+      "sourceStart": 629676938,
+      "rangeLen": 29320532
+    },
+    {
+      "destStart": 3280739425,
+      "sourceStart": 2494455782,
+      "rangeLen": 366363795
+    },
+    {
+      "destStart": 2818710889,
+      "sourceStart": 1426835569,
+      "rangeLen": 147897119
+    },
+    {
+      "destStart": 1120892574,
+      "sourceStart": 3179004622,
+      "rangeLen": 23838555
+    },
+    {
+      "destStart": 1539573533,
+      "sourceStart": 3662961622,
+      "rangeLen": 195295312
+    },
+    {
+      "destStart": 3794992098,
+      "sourceStart": 1820059317,
+      "rangeLen": 63264836
+    },
+    {
+      "destStart": 0,
+      "sourceStart": 84223283,
+      "rangeLen": 357701033
+    },
+    {
+      "destStart": 1144731129,
+      "sourceStart": 1702496991,
+      "rangeLen": 117562326
+    },
+    {
+      "destStart": 2153549522,
+      "sourceStart": 2046878176,
+      "rangeLen": 261447569
+    },
+    {
+      "destStart": 593734757,
+      "sourceStart": 726830618,
+      "rangeLen": 239035306
+    },
+    {
+      "destStart": 987137385,
+      "sourceStart": 83279657,
+      "rangeLen": 943626
+    },
+    {
+      "destStart": 2966608008,
+      "sourceStart": 0,
+      "rangeLen": 83279657
+    },
+    {
+      "destStart": 1734868845,
+      "sourceStart": 3350732055,
+      "rangeLen": 46739026
+    },
+    {
+      "destStart": 1438972249,
+      "sourceStart": 2860819577,
+      "rangeLen": 100601284
+    },
+    {
+      "destStart": 2632580852,
+      "sourceStart": 2308325745,
+      "rangeLen": 186130037
+    },
+    {
+      "destStart": 1262293455,
+      "sourceStart": 965865924,
+      "rangeLen": 108845646
+    },
+    {
+      "destStart": 412642092,
+      "sourceStart": 1681183798,
+      "rangeLen": 21313193
+    },
+    {
+      "destStart": 472462518,
+      "sourceStart": 1305563330,
+      "rangeLen": 121272239
+    },
+    {
+      "destStart": 988081011,
+      "sourceStart": 496865375,
+      "rangeLen": 132811563
+    },
+    {
+      "destStart": 463275817,
+      "sourceStart": 2037691475,
+      "rangeLen": 9186701
+    },
+    {
+      "destStart": 3049887665,
+      "sourceStart": 1074711570,
+      "rangeLen": 230851760
+    },
+    {
+      "destStart": 832770063,
+      "sourceStart": 1883324153,
+      "rangeLen": 154367322
+    },
+    {
+      "destStart": 1371139101,
+      "sourceStart": 658997470,
+      "rangeLen": 67833148
+    }
+  ],
+  "water_to_light": [
+    {
+      "destStart": 4062286509,
+      "sourceStart": 3839153068,
+      "rangeLen": 91029970
+    },
+    {
+      "destStart": 1610728246,
+      "sourceStart": 3827168971,
+      "rangeLen": 11474903
+    },
+    {
+      "destStart": 2753947407,
+      "sourceStart": 2725849236,
+      "rangeLen": 1101319735
+    },
+    {
+      "destStart": 2525484879,
+      "sourceStart": 1829977386,
+      "rangeLen": 228462528
+    },
+    {
+      "destStart": 657837215,
+      "sourceStart": 1095779595,
+      "rangeLen": 241604827
+    },
+    {
+      "destStart": 1895347620,
+      "sourceStart": 1337384422,
+      "rangeLen": 492592964
+    },
+    {
+      "destStart": 1425623249,
+      "sourceStart": 4009599599,
+      "rangeLen": 185104997
+    },
+    {
+      "destStart": 2446068318,
+      "sourceStart": 3930183038,
+      "rangeLen": 79416561
+    },
+    {
+      "destStart": 1894838426,
+      "sourceStart": 3838643874,
+      "rangeLen": 509194
+    },
+    {
+      "destStart": 2389619503,
+      "sourceStart": 896001044,
+      "rangeLen": 56448815
+    },
+    {
+      "destStart": 3855267142,
+      "sourceStart": 2058439914,
+      "rangeLen": 207019367
+    },
+    {
+      "destStart": 1187459420,
+      "sourceStart": 657837215,
+      "rangeLen": 238163829
+    },
+    {
+      "destStart": 1622203149,
+      "sourceStart": 2467395620,
+      "rangeLen": 172372577
+    },
+    {
+      "destStart": 2387940584,
+      "sourceStart": 952449859,
+      "rangeLen": 1678919
+    },
+    {
+      "destStart": 985523081,
+      "sourceStart": 2265459281,
+      "rangeLen": 201936339
+    },
+    {
+      "destStart": 4153316479,
+      "sourceStart": 954128778,
+      "rangeLen": 141650817
+    },
+    {
+      "destStart": 1794575726,
+      "sourceStart": 4194704596,
+      "rangeLen": 100262700
+    },
+    {
+      "destStart": 899442042,
+      "sourceStart": 2688664470,
+      "rangeLen": 37184766
+    },
+    {
+      "destStart": 936626808,
+      "sourceStart": 2639768197,
+      "rangeLen": 48896273
+    }
+  ],
+  "light_to_temperature": [
+    {
+      "destStart": 0,
+      "sourceStart": 2682471120,
+      "rangeLen": 43545350
+    },
+    {
+      "destStart": 2829609407,
+      "sourceStart": 2423668531,
+      "rangeLen": 227914183
+    },
+    {
+      "destStart": 3685065657,
+      "sourceStart": 3821208881,
+      "rangeLen": 65673550
+    },
+    {
+      "destStart": 1319277847,
+      "sourceStart": 0,
+      "rangeLen": 33132672
+    },
+    {
+      "destStart": 818263707,
+      "sourceStart": 3091863377,
+      "rangeLen": 5216721
+    },
+    {
+      "destStart": 3144636417,
+      "sourceStart": 670795080,
+      "rangeLen": 1340457
+    },
+    {
+      "destStart": 1352410519,
+      "sourceStart": 895535914,
+      "rangeLen": 570572224
+    },
+    {
+      "destStart": 2709351136,
+      "sourceStart": 1662268878,
+      "rangeLen": 120258271
+    },
+    {
+      "destStart": 115643652,
+      "sourceStart": 2726016470,
+      "rangeLen": 93054822
+    },
+    {
+      "destStart": 455333494,
+      "sourceStart": 1538206440,
+      "rangeLen": 124062438
+    },
+    {
+      "destStart": 3839611769,
+      "sourceStart": 4030334543,
+      "rangeLen": 30664857
+    },
+    {
+      "destStart": 3750739207,
+      "sourceStart": 4258515305,
+      "rangeLen": 36451991
+    },
+    {
+      "destStart": 2070721515,
+      "sourceStart": 33132672,
+      "rangeLen": 155555065
+    },
+    {
+      "destStart": 3132740473,
+      "sourceStart": 2067641423,
+      "rangeLen": 5192544
+    },
+    {
+      "destStart": 4147162986,
+      "sourceStart": 3685065657,
+      "rangeLen": 58311172
+    },
+    {
+      "destStart": 4278703737,
+      "sourceStart": 3743376829,
+      "rangeLen": 16263559
+    },
+    {
+      "destStart": 1070098598,
+      "sourceStart": 2174489282,
+      "rangeLen": 249179249
+    },
+    {
+      "destStart": 716608392,
+      "sourceStart": 2072833967,
+      "rangeLen": 101655315
+    },
+    {
+      "destStart": 43545350,
+      "sourceStart": 1466108138,
+      "rangeLen": 72098302
+    },
+    {
+      "destStart": 3057523590,
+      "sourceStart": 3016646494,
+      "rangeLen": 75216883
+    },
+    {
+      "destStart": 2700979566,
+      "sourceStart": 887164344,
+      "rangeLen": 8371570
+    },
+    {
+      "destStart": 4205474158,
+      "sourceStart": 4060999400,
+      "rangeLen": 73229579
+    },
+    {
+      "destStart": 2226276580,
+      "sourceStart": 188687737,
+      "rangeLen": 474702986
+    },
+    {
+      "destStart": 1971879519,
+      "sourceStart": 1968799427,
+      "rangeLen": 98841996
+    },
+    {
+      "destStart": 3931845119,
+      "sourceStart": 4134228979,
+      "rangeLen": 124286326
+    },
+    {
+      "destStart": 579395932,
+      "sourceStart": 2819071292,
+      "rangeLen": 137212460
+    },
+    {
+      "destStart": 3137933017,
+      "sourceStart": 672135537,
+      "rangeLen": 6703400
+    },
+    {
+      "destStart": 1062694241,
+      "sourceStart": 663390723,
+      "rangeLen": 7404357
+    },
+    {
+      "destStart": 3787191198,
+      "sourceStart": 3886882431,
+      "rangeLen": 52420571
+    },
+    {
+      "destStart": 269061216,
+      "sourceStart": 1782527149,
+      "rangeLen": 186272278
+    },
+    {
+      "destStart": 1031805835,
+      "sourceStart": 2651582714,
+      "rangeLen": 30888406
+    },
+    {
+      "destStart": 823480428,
+      "sourceStart": 678838937,
+      "rangeLen": 208325407
+    },
+    {
+      "destStart": 3870276626,
+      "sourceStart": 3759640388,
+      "rangeLen": 61568493
+    },
+    {
+      "destStart": 4056131445,
+      "sourceStart": 3939303002,
+      "rangeLen": 91031541
+    },
+    {
+      "destStart": 1922982743,
+      "sourceStart": 3097080098,
+      "rangeLen": 48896776
+    },
+    {
+      "destStart": 208698474,
+      "sourceStart": 2956283752,
+      "rangeLen": 60362742
+    }
+  ],
+  "temperature_to_humidity": [
+    {
+      "destStart": 219529182,
+      "sourceStart": 731674447,
+      "rangeLen": 232727899
+    },
+    {
+      "destStart": 2748076784,
+      "sourceStart": 2771987989,
+      "rangeLen": 46463882
+    },
+    {
+      "destStart": 2514344851,
+      "sourceStart": 4061235363,
+      "rangeLen": 233731933
+    },
+    {
+      "destStart": 0,
+      "sourceStart": 1369964423,
+      "rangeLen": 219529182
+    },
+    {
+      "destStart": 452257081,
+      "sourceStart": 362359049,
+      "rangeLen": 21789881
+    },
+    {
+      "destStart": 4243457964,
+      "sourceStart": 2720478657,
+      "rangeLen": 51509332
+    },
+    {
+      "destStart": 3085663754,
+      "sourceStart": 3109574959,
+      "rangeLen": 64704581
+    },
+    {
+      "destStart": 1639319644,
+      "sourceStart": 384148930,
+      "rangeLen": 347525517
+    },
+    {
+      "destStart": 3150368335,
+      "sourceStart": 3626166922,
+      "rangeLen": 251414834
+    },
+    {
+      "destStart": 1986845161,
+      "sourceStart": 0,
+      "rangeLen": 139120377
+    },
+    {
+      "destStart": 1382707786,
+      "sourceStart": 1339581093,
+      "rangeLen": 30383330
+    },
+    {
+      "destStart": 1413091116,
+      "sourceStart": 1113352565,
+      "rangeLen": 226228528
+    },
+    {
+      "destStart": 2794540666,
+      "sourceStart": 2818451871,
+      "rangeLen": 291123088
+    },
+    {
+      "destStart": 2125965538,
+      "sourceStart": 338187591,
+      "rangeLen": 24171458
+    },
+    {
+      "destStart": 474046962,
+      "sourceStart": 139120377,
+      "rangeLen": 157229612
+    },
+    {
+      "destStart": 2361125570,
+      "sourceStart": 1100881680,
+      "rangeLen": 12470885
+    },
+    {
+      "destStart": 631276574,
+      "sourceStart": 296349989,
+      "rangeLen": 41837602
+    },
+    {
+      "destStart": 3401783169,
+      "sourceStart": 3428035243,
+      "rangeLen": 198131679
+    },
+    {
+      "destStart": 3989702261,
+      "sourceStart": 3174279540,
+      "rangeLen": 253755703
+    },
+    {
+      "destStart": 2224646236,
+      "sourceStart": 964402346,
+      "rangeLen": 136479334
+    },
+    {
+      "destStart": 2150136996,
+      "sourceStart": 2299087215,
+      "rangeLen": 74509240
+    },
+    {
+      "destStart": 3806048654,
+      "sourceStart": 3877581756,
+      "rangeLen": 183653607
+    },
+    {
+      "destStart": 3599914848,
+      "sourceStart": 2514344851,
+      "rangeLen": 206133806
+    },
+    {
+      "destStart": 673114176,
+      "sourceStart": 1589493605,
+      "rangeLen": 709593610
+    }
+  ],
+  "humidity_to_location": [
+    {
+      "destStart": 4029426902,
+      "sourceStart": 1202474782,
+      "rangeLen": 191291587
+    },
+    {
+      "destStart": 2764446301,
+      "sourceStart": 708692227,
+      "rangeLen": 493782555
+    },
+    {
+      "destStart": 2188304413,
+      "sourceStart": 3350514524,
+      "rangeLen": 33021460
+    },
+    {
+      "destStart": 3318755823,
+      "sourceStart": 4213528230,
+      "rangeLen": 67155117
+    },
+    {
+      "destStart": 2000392671,
+      "sourceStart": 620732246,
+      "rangeLen": 87959981
+    },
+    {
+      "destStart": 3754724301,
+      "sourceStart": 3075811923,
+      "rangeLen": 274702601
+    },
+    {
+      "destStart": 3258228856,
+      "sourceStart": 1393766369,
+      "rangeLen": 60526967
+    },
+    {
+      "destStart": 2088352652,
+      "sourceStart": 4113576469,
+      "rangeLen": 99951761
+    },
+    {
+      "destStart": 363515622,
+      "sourceStart": 1849258760,
+      "rangeLen": 614077493
+    },
+    {
+      "destStart": 1213242541,
+      "sourceStart": 342257124,
+      "rangeLen": 11129119
+    },
+    {
+      "destStart": 1733046668,
+      "sourceStart": 353386243,
+      "rangeLen": 267346003
+    },
+    {
+      "destStart": 1224371660,
+      "sourceStart": 4280683347,
+      "rangeLen": 14283949
+    },
+    {
+      "destStart": 2577070088,
+      "sourceStart": 2888435710,
+      "rangeLen": 187376213
+    },
+    {
+      "destStart": 4220718489,
+      "sourceStart": 2832149614,
+      "rangeLen": 56286096
+    },
+    {
+      "destStart": 324294413,
+      "sourceStart": 1810037551,
+      "rangeLen": 39221209
+    },
+    {
+      "destStart": 3385910940,
+      "sourceStart": 2463336253,
+      "rangeLen": 368813361
+    },
+    {
+      "destStart": 977593115,
+      "sourceStart": 3383535984,
+      "rangeLen": 235649426
+    },
+    {
+      "destStart": 1238655609,
+      "sourceStart": 3619185410,
+      "rangeLen": 494391059
+    },
+    {
+      "destStart": 4277004585,
+      "sourceStart": 324294413,
+      "rangeLen": 17962711
+    },
+    {
+      "destStart": 2221325873,
+      "sourceStart": 1454293336,
+      "rangeLen": 355744215
+    }
+  ]
+}

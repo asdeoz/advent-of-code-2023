@@ -1,0 +1,106 @@
+{
+  "seed_to_soil": [
+    {
+      "destStart": 50,
+      "sourceStart": 98,
+      "rangeLen": 2
+    },
+    {
+      "destStart": 52,
+      "sourceStart": 50,
+      "rangeLen": 48
+    }
+  ],
+  "soil_to_fertilizer": [
+    {
+      "destStart": 0,
+      "sourceStart": 15,
+      "rangeLen": 37
+    },
+    {
+      "destStart": 37,
+      "sourceStart": 52,
+      "rangeLen": 2
+    },
+    {
+      "destStart": 39,
+      "sourceStart": 0,
+      "rangeLen": 15
+    }
+  ],
+  "fertilizer_to_water": [
+    {
+      "destStart": 49,
+      "sourceStart": 53,
+      "rangeLen": 8
+    },
+    {
+      "destStart": 0,
+      "sourceStart": 11,
+      "rangeLen": 42
+    },
+    {
+      "destStart": 42,
+      "sourceStart": 0,
+      "rangeLen": 7
+    },
+    {
+      "destStart": 57,
+      "sourceStart": 7,
+      "rangeLen": 4
+    }
+  ],
+  "water_to_light": [
+    {
+      "destStart": 88,
+      "sourceStart": 18,
+      "rangeLen": 7
+    },
+    {
+      "destStart": 18,
+      "sourceStart": 25,
+      "rangeLen": 70
+    }
+  ],
+  "light_to_temperature": [
+    {
+      "destStart": 45,
+      "sourceStart": 77,
+      "rangeLen": 23
+    },
+    {
+      "destStart": 81,
+      "sourceStart": 45,
+      "rangeLen": 19
+    },
+    {
+      "destStart": 68,
+      "sourceStart": 64,
+      "rangeLen": 13
+    }
+  ],
+  "temperature_to_humidity": [
+    {
+      "destStart": 0,
+      "sourceStart": 69,
+      "rangeLen": 1
+    },
+    {
+      "destStart": 1,
+      "sourceStart": 0,
+      "rangeLen": 69
+    }
+  ],
+  "humidity_to_location": [
+    {
+      "destStart": 60,
+      "sourceStart": 56,
+      "rangeLen": 37
+    },
+    {
+      "destStart": 56,
+      "sourceStart": 93,
+      "rangeLen": 4
+    }
+  ]
+}
