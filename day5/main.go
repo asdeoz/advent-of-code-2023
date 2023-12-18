@@ -7,6 +7,7 @@ import (
 	"io"
 	"math"
 	"os"
+	"sync"
 )
 
 func readInput() (*models.Map, *[]int) {
@@ -60,14 +61,57 @@ func findLocation(m *models.Map, seed int) int {
 	return location
 }
 
-func main() {
-	input, seeds := readInput()
-	lowestLocation := math.MaxInt32
-	for _, s := range *seeds {
-		loc := findLocation(input, s)
-		if loc < lowestLocation {
-			lowestLocation = loc
+func expandSeedsAndFind(seeds *[]int, input *models.Map) []int {
+	var wg sync.WaitGroup
+	locations := make([]int, 0, 100000000)
+
+	n1 := 0
+	for _, n := range *seeds {
+		if n1 == 0 {
+			n1 = n
+		} else {
+			wg.Add(1)
+			go func(n1 int, n2 int, input *models.Map, locations *[]int) {
+				defer wg.Done()
+				lowestLocation := math.MaxInt32
+				for i := n1; i < n2; i++ {
+					loc := findLocation(input, i)
+					if loc < lowestLocation {
+						lowestLocation = loc
+					}
+				}
+				*locations = append(*locations, lowestLocation)
+			}(n1, n1+n, input, &locations)
+			n1 = 0
 		}
 	}
-	fmt.Println("Lowest Location: ", lowestLocation)
+
+	wg.Wait()
+	return locations
+}
+
+func main() {
+	// Initialize
+	input, seeds := readInput()
+
+	// Part 1
+	lowestLocation1 := math.MaxInt32
+	for _, s := range *seeds {
+		loc := findLocation(input, s)
+		if loc < lowestLocation1 {
+			lowestLocation1 = loc
+		}
+	}
+	fmt.Println("Lowest Location for Part 1:", lowestLocation1)
+
+	// Part 2
+	locations := expandSeedsAndFind(seeds, input)
+	lowestLocation2 := math.MaxInt32
+	for _, l := range locations {
+		if l < lowestLocation2 {
+			lowestLocation2 = l
+		}
+	}
+
+	fmt.Println("Lowest Location for Part 2:", lowestLocation2)
 }
