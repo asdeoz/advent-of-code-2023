@@ -1,0 +1,17 @@
+[
+  {
+    "id": "AAA",
+    "left": "BBB",
+    "right": "BBB"
+  },
+  {
+    "id": "BBB",
+    "left": "AAA",
+    "right": "ZZZ"
+  },
+  {
+    "id": "ZZZ",
+    "left": "ZZZ",
+    "right": "ZZZ"
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "id": "11A",
+    "left": "11B",
+    "right": "XXX"
+  },
+  {
+    "id": "11B",
+    "left": "XXX",
+    "right": "11Z"
+  },
+  {
+    "id": "11Z",
+    "left": "11B",
+    "right": "XXX"
+  },
+  {
+    "id": "22A",
+    "left": "22B",
+    "right": "XXX"
+  },
+  {
+    "id": "22B",
+    "left": "22C",
+    "right": "22C"
+  },
+  {
+    "id": "22C",
+    "left": "22Z",
+    "right": "22Z"
+  },
+  {
+    "id": "22Z",
+    "left": "22B",
+    "right": "22B"
+  },
+  {
+    "id": "XXX",
+    "left": "XXX",
+    "right": "XXX"
+  }
+]
